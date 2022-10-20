@@ -16,8 +16,9 @@ I'm a maker, builder, and creator with a passion for teaching. I love creative t
   * [Reddit.com/u/Ryndon](https://reddit.com/u/ryndon)
   * [LinkedIn.com/in/Ryndon](https://linkedin.com/in/ryndon/)
   * [Instagram.com/TheRyndon](https://instagram.com/theryndon/)
+  * [Soundcloud.com/Ryndon](https://soundcloud.com/ryndon)
   * [Ryndon.com](https://ryndon.com)
-  * [Ryndon.eth](https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/82975993191886192013389367632603625340620049518102335730641050080421558135791)
+  * [Ryndon.eth](https://rainbow.me/ryndon.eth)
 
 - 📫 How to reach me:
   * [Twitter @Ryndon](https://twitter.com/ryndon)
