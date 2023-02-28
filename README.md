@@ -4,7 +4,6 @@ I'm a maker, builder, and creator with a passion for teaching. I love creative t
 
 - :rocket: I'm currently working on KeyQuest, a crypto-currency wallet game.
 - :rocket: I'm currently working on Rix College, a free virtual university.
-- 🌱 I’m currently learning Solidity & Web3.
 - 🌱 I’m currently learning Spanish. 
 - 👀 I’m interested in disruptive technology for education, finance, real estate.
 - :heart: I'm a free software Advocate and Educator at [tjfree](youtube.com/tjfree).
