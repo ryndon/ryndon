@@ -11,9 +11,10 @@ I'm a maker, builder, and creator with a passion for teaching. I love creative t
 - :hammer_and_wrench: I’m looking to collaborate.
 
 - 📫 Socials:
+  * [Mastodon @TJFREE]([https://twitter.com/ryndon](https://fosstodon.org/@tjfree))
+  * [PixelFed @TJFREE]([https://twitter.com/ryndon](https://pixey.org/tjfree))
   * [Twitter.com/Ryndon](https://twitter.com/ryndon)
-  * [Youtube.com/Ryndon](https://youtube.com/ryndon)
-  * [Reddit.com/u/Ryndon](https://reddit.com/u/ryndon)
+  * [Youtube.com/TJFREE](https://youtube.com/tjfree)
   * [LinkedIn.com/in/Ryndon](https://linkedin.com/in/ryndon/)
   * [Instagram.com/TheRyndon](https://instagram.com/theryndon/)
   * [Soundcloud.com/Ryndon](https://soundcloud.com/ryndon)
